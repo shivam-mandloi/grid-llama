@@ -5,7 +5,7 @@
 #include <stdexcept>
 #include <string>
 
-std::string weightPathLocation = "/mnt/c/Users/shiva/Desktop/IISC/temp/ExampleTemp/LLAMA/Weight3BInstruct"; // Add weight folder location
+std::string weightPathLocation = "/mnt/c/Users/shiva/Desktop/Weight8B-instruct-python"; // Add weight folder location
 
 std::string ReadTxtFile(std::string fileName)
 {

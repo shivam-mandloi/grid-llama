@@ -2,7 +2,7 @@ import os
 import subprocess
 
 class RunScript:
-    def __init__(self, args, filename="main.cpp"):
+    def __init__(self, args, filename="8BSingleAgentExample.cpp"):
         self.wkDir = os.getcwd()
         self.filename = os.path.join(self.wkDir, filename)
         
